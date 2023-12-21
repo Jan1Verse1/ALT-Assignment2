@@ -77,7 +77,7 @@ header {
     align-items: center;
     justify-content: center;
     background-color: #F5F8FA;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .page {
@@ -85,7 +85,7 @@ header {
     grid-template-columns: 2fr 1fr;
     width: 60vw;
     height: max-content;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .tag {
@@ -298,11 +298,6 @@ header {
 
 .helptexts span {
     text-decoration: underline;
-    /* color: #333;
-    font-size: 0.6em;
-    font-weight: 400;
-    color: #333;
-    font-family: 'Lato', sans-serif; */
 }
 
 .powered {
